@@ -1,6 +1,6 @@
 Programer: Ben Howes
-Date: 5.3.2022
-Program: Hello Square
+Date: 5.4.2022
+Program: Figure 8
 
 
 async function startProgram() {
